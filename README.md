@@ -59,11 +59,8 @@ predicted_class = kmean.predict([[9000,120]])
 print('The cluster group 1for Applicant Income 9000 and Loanamount 120')
 ```
 ## Output:
-![Output]()
-![Output]()
-
-
-<br>
+![Output](https://github.com/naramala-niharika/K-Means-Clustering-algorithm/blob/master/p1.PNG?raw=true)
+![Output](https://github.com/naramala-niharika/K-Means-Clustering-algorithm/blob/master/p2.PNG?raw=true)
 
 ## Result:
 Thus the K-means clustering algorithm is implemented and predicted the cluster class using python program.
